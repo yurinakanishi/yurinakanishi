@@ -10,7 +10,7 @@ My blogsite [yurimell.com](yurimell.com)
 
 Entrepreneur for [meshmell.com](meshmell.com)
 
-[Meshmell Twitter](https://meshmell6174)
+[Meshmell Twitter](https://twitter.com/meshmell6174)
 
 
 
