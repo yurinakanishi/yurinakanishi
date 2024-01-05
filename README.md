@@ -1,7 +1,5 @@
 ### Howdy?   I'm Yuri Nakanishi.
 
-Live in Tokyo.
-
 Python, GO, Typescript, Three.js, React, Blender.
 
 My blogsite [yurimell.com](yurimell.com)
