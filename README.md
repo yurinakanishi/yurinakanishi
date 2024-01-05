@@ -1,6 +1,6 @@
 ### Howdy?   I'm Yuri Nakanishi.
 
-Software Engineer at Tokyo.
+Live in Tokyo.
 
 Python, GO, Typescript, Three.js, React, Blender.
 
