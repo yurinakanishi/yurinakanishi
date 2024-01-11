@@ -1,16 +1,17 @@
-### Howdy?   I'm Yuri Nakanishi.
+## Howdy?   I'm Yuri Nakanishi.
 
 Python, GO, Typescript, Three.js, React, Blender.
 
-My blogsite [yurimell.com](yurimell.com)
+### Yurimell (My blog web site)
 
-[My Twitter](https://twitter.com/yurinakanishi58)
+- [URL](https://yurimell.com)
 
-Entrepreneur for [meshmell.com](meshmell.com)
+- [Github](https://github.com/meshmell/meshmell.com)
 
-[Meshmell github](https://github.com/meshmell/meshmell.com)
+### Meshmell (3D model distributioh web site)
 
-[Meshmell Twitter](https://twitter.com/meshmell6174)
+- [URL](https://meshmell.com)
 
+- [Github](https://github.com/meshmell/meshmell.com)
 
-
+- [Twitter](https://twitter.com/meshmell6174)
